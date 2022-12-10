@@ -1,6 +1,24 @@
 {
+  "name": "funky-social-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLanfear/funky-social-media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLanfear/funky-social-media.git"
+  },
+  "homepage": "https://github.com/MLanfear/funky-social-media",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^6.8.0"
+    "mongoose": "^6.7.1"
   }
 }
